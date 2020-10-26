@@ -5,13 +5,13 @@ Fully written with *React Hooks* and *Material UI* library.
 
 # Features
 The application allows to:
-- Search movies
 - Get movie info
 - Get similar movies
 - Get recommended movies
 - Discover popular/trending/upcoming movies
 - Add to favorites
 - Watch visited movies 
+- Search movies
 
 # Tech Features
 - [x] Material UI
